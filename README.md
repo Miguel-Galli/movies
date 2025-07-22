@@ -11,8 +11,8 @@ Um aplicativo Flutter simples que exibe uma lista de filmes. Este projeto é mul
 
 ### 🛠️ Estrutura do Projeto
 
-- `lib/main.dart`: ponto de entrada do app.
-- `lib/movies_list.dart`: widget principal que mostra a lista de filmes.
+- `lib/main.dart`: main do app.
+- `lib/movies_list.dart`: lista de filmes.
 - `lib/movies_list_error.dart`: tratamento de erros na exibição da lista.
 
 ### 📦 Dependências
